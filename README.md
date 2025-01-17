@@ -1,2 +1,2 @@
 # crazy-eights
-CST821 Java Application Programming Assignment
+CST8221 Java Application Programming Assignment
